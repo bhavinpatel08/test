@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87496" started-at="2019-07-09T18:13:02Z" finished-at="2019-07-09T18:14:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87496" started-at="2019-07-09T18:13:02Z" finished-at="2019-07-09T18:14:29Z">
+      <class name="Select_Flights.Verify_the_Select_Flight_Functionality">
+        <test-method status="PASS" signature="SetUpBrowser()[pri:0, instance:Select_Flights.Verify_the_Select_Flight_Functionality@13fee20c]" name="SetUpBrowser" is-config="true" duration-ms="11797" started-at="2019-07-09T18:13:02Z" finished-at="2019-07-09T18:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBrowser -->
+        <test-method status="PASS" signature="Velidate_Select_Flidht()[pri:0, instance:Select_Flights.Verify_the_Select_Flight_Functionality@13fee20c]" name="Velidate_Select_Flidht" duration-ms="75595" started-at="2019-07-09T18:13:14Z" finished-at="2019-07-09T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Velidate_Select_Flidht -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Select_Flights.Verify_the_Select_Flight_Functionality@13fee20c]" name="tearDown" is-config="true" duration-ms="85" started-at="2019-07-09T18:14:29Z" finished-at="2019-07-09T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Select_Flights.Verify_the_Select_Flight_Functionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

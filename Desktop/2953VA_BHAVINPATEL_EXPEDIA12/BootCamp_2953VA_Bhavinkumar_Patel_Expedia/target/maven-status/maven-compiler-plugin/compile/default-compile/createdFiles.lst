@@ -1,0 +1,6 @@
+pageActions\Passenger_Info_Page.class
+pageActions\SearchPage.class
+pageActions\Landingpage.class
+baseProperties\BaseClass.class
+pageActions\SelectFlightPage.class
+pageActions\FlightsPage.class
